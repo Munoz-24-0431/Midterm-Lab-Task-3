@@ -56,10 +56,12 @@
 
 **- Dashboard (see screenshot)**
 
-![Image](https://github.com/user-attachments/assets/24583a31-c3ed-40c1-99cf-4f405c3a6da1)
+![Image](https://github.com/user-attachments/assets/bc2feb79-f899-4e80-ac8b-b3502fbeff02)
 
-![Image](https://github.com/user-attachments/assets/53a0ec57-baa5-46d4-a481-14b9d6637d31)
+![Image](https://github.com/user-attachments/assets/1cafbd95-4136-4960-9e99-659c5808571f)
 
 **- Map (see screenshot)**
 
-![Image](https://github.com/user-attachments/assets/d1c3b9d2-85e1-49b2-9fd5-5361c5a12b8d)
+![Image](https://github.com/user-attachments/assets/583025b1-c4bc-4ce6-ad69-f7b1a89b1b3b)
+
+
